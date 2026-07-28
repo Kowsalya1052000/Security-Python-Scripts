@@ -69,4 +69,4 @@ The script overwrites `allow_list.txt` with the cleaned list and prints a summar
 
 ## Author
 
-**Kowsalya** — Cyber Security Engineer
+**Kowsalya** - Cyber Security Engineer
