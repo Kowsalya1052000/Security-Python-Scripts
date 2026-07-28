@@ -1,6 +1,6 @@
-Case 03 — Python Algorithm: Automated IP Allowlist Management
+Python Algorithm: Automated IP Allowlist Management
 ---
-Analyst: Kowsalya  
+Engineer : Kowsalya  
 Date: May 2026  
 Language: Python 3  
 Category: Security Automation / Access Control  
