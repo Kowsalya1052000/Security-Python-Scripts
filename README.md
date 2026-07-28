@@ -1,4 +1,4 @@
-# Security Python Scripts
+# Security Python Script
 
 Python scripts for security automation, 
 log parsing, IOC extraction and 
